@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Porcarar
+- 👋 Hi, I’m Mik
 - 👀 I’m interested in Embedded Systems, SoC design, Electronic System Level Modeling 
 - 🌱 I’m currently learning SystemC
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to researching collaborate on SoC Architecture Design Space Exploration at system level,SoC Memory subsystem design.  
 - 📫 How to reach me ...
 
 <!---
